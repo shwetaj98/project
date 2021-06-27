@@ -1,2 +1,2 @@
 # project
-stone papper scissor game
+stone papper scissor game 
